@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8e311014-fa56-4b62-ba65-e0af0a8e5992" solutionId="8e311014-fa56-4b62-ba65-e0af0a8e5992" resetWebServer="false" sharePointProductVersion="15.0" name="SalatimeV1" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7368b9f9-1424-4d69-b0a6-fa9c28849308" />
+  </features>
+</package>

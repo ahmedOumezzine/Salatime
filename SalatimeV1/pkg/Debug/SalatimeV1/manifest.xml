@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8e311014-fa56-4b62-ba65-e0af0a8e5992" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SalatimeV1.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SalatimeV1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a53d7f9de946e09d" Namespace="SalatimeV1.version1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\SalatimeV1\version1\version1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SalatimeV1_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SalatimeV1\SalatimeV1\bin\Debug\SalatimeV1.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SalatimeV1\SalatimeV1\bin\Debug\SalatimeV1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SalatimeV1\SalatimeV1\obj\Debug\SalatimeV1.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SalatimeV1\SalatimeV1\obj\Debug\SalatimeV1.pdb

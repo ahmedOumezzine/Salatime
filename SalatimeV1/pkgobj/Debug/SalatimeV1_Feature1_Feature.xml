@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="my first test webpart" Id="ecc3d924-e3ab-4c3e-a6b5-647f13509f0b" Scope="Site" Title="SalatimeV1 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="version1\Elements.xml" />
+    <ElementFile Location="version1\version1.webpart" />
+  </ElementManifests>
+</Feature>

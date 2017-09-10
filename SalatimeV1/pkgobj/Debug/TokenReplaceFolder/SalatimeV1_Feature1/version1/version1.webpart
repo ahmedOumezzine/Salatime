@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SalatimeV1.version1.version1, SalatimeV1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a53d7f9de946e09d" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">SalatimeV1 - version1</property>
+        <property name="Description" type="string">My Visual Web Part</property>
+        <property name="latitude" type="string"></property>
+        <property name="longitude" type="string"></property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
